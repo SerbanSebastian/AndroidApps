@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CountriesApplication</string>
+    <string name="get_all_countries">Get all countries</string>
+    <string name="search_country_by_name">Search a country by name</string>
+</resources>

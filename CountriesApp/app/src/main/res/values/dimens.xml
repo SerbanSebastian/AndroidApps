@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="main_activity_button">270dp</dimen>
+    <dimen name="main_activity_button_2">50dp</dimen>
+    <dimen name="zero_dimension">0dp</dimen>
+</resources>
